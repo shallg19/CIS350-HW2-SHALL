@@ -1,2 +1,2 @@
-# HW2-Part-2
+# CIS350-HW2-SHALL
 Homework 2 PART 2
